@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConceptBluetoothAndIMEI</string>
+    <string name="paired_devices">Dispositivos Emparejados</string>
+    <string name="aviable_devices">Dispositivos Disponibles</string>
+</resources>
